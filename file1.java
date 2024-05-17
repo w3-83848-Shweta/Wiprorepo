@@ -2,7 +2,11 @@ import java.lang.*;
 
 public class first{
  int a=500;
+
  int b=60
+
+
+ int b=200;
 
 public static void main(String [] args){
  System.out.println("This is first java prg");
